@@ -1,2 +1,2 @@
-# Bangla-Programming
+# Bangla Programming
 Bangla Programming
